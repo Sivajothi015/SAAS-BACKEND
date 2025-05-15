@@ -40,7 +40,7 @@ The **Smart Agro Advisory System** backend is a FastAPI-powered service that off
 ---
 
 
-  📦 Related Repositories
+  📦 Related Repository
 🔗 Frontend Repo: https://github.com/Sivajothi015/SAAS-FRONTEND
 
 
